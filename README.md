@@ -1,2 +1,2 @@
 # minutes
-Minutes from UQCS committee meetings and general meetings.
+Minutes from UQCS General Meetings.
