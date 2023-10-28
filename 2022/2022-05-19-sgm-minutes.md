@@ -110,7 +110,7 @@ Andrew Brown moved, Tom Malcolm seconded.
 
 The motion passed with 23 Yea votes, 2 Nay votes, and no objections.
 
-**Proposal**. Recommend Management Committee members to do a "committee jig" following every Management Committee meeting.
+**Proposal**. Require Management Committee members to do a "committee jig" following every Management Committee meeting.
 
 - Rationale: It boosts morale.
 
