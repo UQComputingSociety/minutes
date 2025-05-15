@@ -1,0 +1,295 @@
+# UQ Computing Society Special General Meeting 2  
+## 8 May 2025
+
+SGM opened at **5:40 PM** and closed at **8:56 PM** (3 hr 16 min).
+
+## Agenda
+#### Address on the Requisition
+- Explanation from the President on the matters at hand (as per clause 9.4 of the Constitution).  
+- Discussion and voting on the removal of the President.
+
+#### Election of Vacant Committee Positions
+Open positions:  
+- Secretary  
+- Media Officer  
+- 3 General Committee  
+
+Potentially open positions:  
+- President  
+- Event Officer  
+
+## Quorum
+24 required. 64 attendees. Quorum met.
+
+## Chair of Meeting
+Motion for Richard to become chair for this meeting – seconded by Iain.  
+Bradley mentions there would be a conflict of interest  because Richie is running for President.  
+Isaac nominates himself to be chair – passes by majority.
+
+Isaac confirms the quorum and reminds attendees about the attendance sheet.
+
+## Requisition
+The meeting began with the agenda item to address the requisition.
+
+The President offers a high-level overview and addresses the recent concerns. 
+
+Points raised regarding the requisition included:
+
+Moving onto the topic of Competitive Programming Club (CPG).
+
+The President addressed the recent controversies regarding the Competitive Programming Group (CPG) and apologised to the wider community for the distress that may have been caused. He states that this was a genuine mistake and apologised for the not communicating this to the committee prior to the announcement.
+
+Moving onto the topic of shadow decision making.
+
+The President comments that meetings surrounding the portfolio of Industry and Events were taken place and were in preparation for the sponsor prospectus.
+
+The first meeting had was the Industry Meeting, which was announced to the committee. 
+The second meeting was the Events Meeting - preparing the events draft for the prospectus, which was announced to the committee.
+Only the Events Officer and the President attended this meeting as committee could not make it. 
+Jesse comments on the matter noting the following:
+1. The previous committee had suggested that the events calendar to be planned ahead of time as it would allow the media content to be created beforehand.
+2. The meeting was not done in isolation but rather to provide a draft of the events calendar which was required for the sponsorship prospectus. 
+
+Avery asks about meeting frequency. Harsha comments they should be fortnightly, but the committee would then have special meetings dedicated for before big events. 
+
+Avery asks if fortnightly meetings occur currently. Iain comments that last year it was difficult, if not impossible based on the when2meet for committee meetings, as we would struggle to hit quorum.
+
+Avery comments on the lack of warning which could be seen as neglectful. Iain says that the initial meetings at the start of a new committee are special—for planning the prospectus (needed to get out ASAP to companies).
+
+The President confirms this was also the case for this year.
+
+Moving onto the topic of neglect of core events.
+
+The president notes that the society's finances is not only a concern for the Treasurer but also to the President himself. Together, the President, Secretary and Treasurer brainstormed ways to increase engagement and the topic of student talks araised. The ex-secretary had a great idea for student talks which revolved around coordinating "2 events in one night". The President notes that is a great idea as it would increase attendees while saving money on pizza. 
+
+Alex brings up that the committee could not raise complaints against the calendar, because it was not seen until the meeting a week before the 1st-year panel.
+
+The President comments that there was a committee meetings prior to the 1st-year panel where any concerns related to student talks could of been raised, these minutes were also available to the general committee. 
+
+Related to the point on events, the President addresses the concerns of "ticketing" students for events and noted that within the meeting with the Secretary and Treasurer, it was discussed that logistics relating demographic were important and would benefit future committees, ticketing was not to be confused with "charging" people to attend events such as student talks etc.
+
+Richard also confirms this and that this conversation within the meeting did occur. 
+
+Cyrus asks for clarification on the minutes stating the minutes should be accurate. The ex-secretary states that the minutes could be wrong due to miscommunication and maybe she understood wrong. 
+
+Santiago comments that sharing the T3 docs should be done by the Secretary.
+
+Bradley comments that, according to the Constitution, T3 has no additional power, so conversations in T3 are informal.  
+
+Anshul asks if the slides will be made available on the Discord server. The President replies that it depends, some people have asked their messages (within the screenshots) not to be put up within the Discord server. Consent would need to be obtained.
+
+During this discussion, it was announced that President Jackie Chang had resigned. Following this announcement, the meeting was no longer about the requisition, as the grounds for removal were moot.
+
+Quinn motions to hear the remainder of the ex-president speech without interruption to speed up the process – seconded by Avery. Motion passed by majority.  
+
+Quinn suggests the rest of the speech be heard during general business. Isaac makes a procedural motion to move to general business (to occur after elections).  
+
+Krit counter-proposes a limited amount of time for the ex-president to speak.  
+
+Bradley asks for a show of hands from those who need to leave by 7 PM (some hands were shown).
+
+Isaac retracts all previous motions due to confusion. Motion for 15 uninterrupted minutes for the ex-president to speak (Avery seconded). The motion passes by majority.
+
+Moving onto the topic of discord neglect.
+
+The ex-president addresses the concerns about deleting Discord - the main method of communication between UQCS committee. He displays the frequency of messages sent during his presidency where multiple discussions and meetings occured. 
+
+Moving onto the topic of SGM delays.
+
+The ex-president addresses delays in publishing the AGM minutes, showing the times discussed and agreed upon by the committee.
+
+Moving onto the topic of AGM minutes.
+
+The ex-president states that for anyone, taking minutes for 4+ hours would be overwhelming. The AGM was recorded to make the process of minuting easier. During a private meeting with the Secretary, this was mentioned and the Secretary was eager to help out and noted they would complete the AGM minutes. The Secretary requested that the minutes to be looked over upon completion. 
+
+Jackie ends off by thanking everyone and apologises to past and current committee and everyone in wider community for the distress he they may have caused. 
+
+Masham motions to order pizza; Richie seconded. Motion passes by majority.  
+Isaac motions to adjourn the meeting; motion passes by majority.
+
+Meeting adjourned **7:08 PM**. Meeting resumed at **7:21 PM**.  
+
+## Returning Officer
+Isaac motions for Bradley to be Returning Officer (Max seconded).
+Iain motions for president nominee speeches: 2 minutes for the nominated individual, 1 minute for others speaking on their behalf (Majority pass).
+Zain asks for clarifications.
+
+Bradley reads out the rules and process for the voting.
+Iain wishes to create 3 general committee positions. Connor seconded. Passed by majority.
+
+## President voting:
+Krit nominates Amy; she accepts. Sarah nominates Daniel; he accepts.
+Note: If the Treasurer is elected President, a casual vacancy will occur for the Treasurer position, and the President will need to act as Treasurer temporarily.
+
+Naveed brings up the issue of only 13 committee members -> wants to create new positions -> alleviates pressure on the current committee during the last semester.
+Naveed motions to create 3 committee member positions -> but the AGM set the rule to be half of quorum, so this cannot be changed until next general meeting.
+
+Richard starts speech (7:38 PM - 7:40 PM)
+Avery represents Amy for her speech (7:41 PM - 7:43 PM). Amy also adds to the speech.
+Daniel starts speech (7:43 PM - 7:44 PM)
+
+-3 to quorum, members left (47).
+
+Richard was elected as President.
+
+## Secretary voting
+-1 to quorum (46).
+
+Secretary speeches begin.
+Jesse Wang gives speech.
+Amy Hu gives speech.
+
+-1 to quorum. Proxy given to Krit (45).
+
+Jesse elected as Secretary.
+-1 to quorum (44).
+
+## Vacant Casual Treasurer Position
+Richie expresses interest in filling the vacant casual Treasurer position.
+
+Isaac seconds Bradley's motion for an opinion poll (majority pass).
+
+Richie nominates Zain for vacant Treasurer. Zain wins the opinion poll.
+
+Zain elected as Vacant Casual Treasurer
+
+## Events Officer
+Jesse speaks on the role.
+
+Zain withdraws his nomination. Avery nominates Amy, but she declines. Tyrese nominates himself.
+Tyrese elected as Events Officer.
+
+## Media Officer
+Anshul speaks on the role.
+Tyrese nominates Najma; she accepts.
+Naveed motions to increase speech time to 2 minutes. Harsha seconded. Explains new faces need more time (passed by majority).
+*Note: Past Matt's bedtime (zZz)*
+
+April starts speech (8:12 PM - 8:13 PM)
+-2 quorum (42).
+Naveed starts speech (8:13 PM - 8:15 PM)
+*IMPORTANT NOTE: NAVEED WILL GO BALD IF HE DOESN'T DOUBLE FOLLOWER COUNT BY AGM*
+Najma starts speech (8:15 PM - 8:16 PM)
+
+-1 quorum (41). Anna Stevens -> Krit (proxy note).
+
+Naveed elected as Media Officer.
+
+## General Committee
+Cyrus nominates himself.
+Anshul nominates himself.
+
+General committee speeches begin.
+Zain resigns from the general committee.
+Iain motions to create a 4th general committee position (Iain seconded) - passed by majority.
+Cielo nominates himself.
+
+April starts speech (8:26 PM - 8:26 PM)
+Ryan starts speech and ends (8:26 PM - 8:26 PM)
+Gideon not present, but Iain speaks on his behalf (8:27 PM - 8:27 PM)
+Chris starts speech (8:27 PM - 8:28 PM). *10k FOLLOWERS OR CHRIS WILL GO BALD.*
+Cyrus starts speech (8:28 PM - 8:29 PM)
+Anshul starts speech (8:29 PM - 8:30 PM)
+Cielo starts speech (8:30 PM - 8:31 PM)
+
+Motion to continue with general business while votes are being counted. Someone seconded. Passed by majority.
+
+General committee elected (during general business): Anshul, April, Chris, Cielo.
+
+## General Business (Constitutional amendments):
+Constitutional Amendment PR #61 (Pizza clause): Iain motions to table it until the next GM. Someone seconded. Motion passes by majority.
+
+*69 BALLOTS!!!!!!!!!!*
+
+- Constitutional Amendment PR #57:
+
+Zain asks for clarification.
+Bradley speaks further on the ambiguities and proposed fixes.
+Alex motions to vote on this amendment. Someone seconded. Passes by majority.
+
+- Constitutional Amendment PR #51, withdrew.
+
+- Constitutional Amendment PR #65: Quinn speaks on Bradley's contributions.
+
+Krit motions to vote on this. Someone seconded. Passes by majority.
+
+- Constitutional Amendment PR #66:
+
+Bradley objects to a comment in the PR regarding interpretation. Quinn disagrees. Isaac reminds attendees to stay on topic.
+Motion to vote, seconded, passes by majority.
+
+- Constitutional Amendment PR #65:
+
+Quinn comments on union rules regarding this amendment.
+Discussion on PR #65 continues. Iain motions to table PR #65 until the next GM, Quinn seconded.
+Vote on tabling motion: 35 yays, 6 nays. The motion to table passes.
+
+Isaac motions to close the meeting. Seconded, and the motion to close passes with 40 yays. Meeting closed.
+
+## Attendees
+64 Attendees
+
+    April Kidd
+    William Lowe
+    Isaac Beh
+    Quinn Horton
+    Masham Siddiqui
+    Ethan Philip
+    Bradley Stone
+    Noel Karayampully
+    Richard Yu
+    Zain Al-Saffi
+    Yuvraj Fowder
+    Yixin Amy Hu
+    Jesse Wang
+    Matt Choy
+    Krit Arora
+    Anna Stevens
+    Harsha Varma
+    Bahareh Khiabani
+    Kana Bartier
+    Gareth Guce
+    Kai Kurosawa
+    Anh Tang
+    Cyrus Forudi
+    Daniel D'Souza
+    Ngoc Ngan Ngo
+    Sara Arsenio
+    Summer Liu
+    Jackie Dinh Chang
+    Connor Geissmann
+    Iain Jensen
+    Tyreece Paul
+    Luke de Boer
+    Nur Alaya Najma
+    Kait Lam
+    Alice Barnett
+    Dhanan Balasaunga
+    Nathan Leeks
+    Benjamin Paul
+    Max Guppy
+    Gideon Mckinlay
+    Avery Armstrong
+    Liam Asher
+    Aiden Liaw
+    Sean McLennan
+    Naveed Rafi
+    Roger Zhu
+    Peter Gow
+    Alex Burrow
+    Ryan Wang
+    Chris Meng
+    Quang Dang
+    Lifu Wang
+    Jasnoor Matharu
+    Praneet Dhodia
+    Bhumik Sarma
+    Nino Paras
+    Jonah Phipps
+    Victoria Sjalim
+    Anshul Dadhwal
+    Yong Xue
+    Harrison Wills
+    Paul Clarke
+    Rachel Chan
+    Zhecheng Wang
